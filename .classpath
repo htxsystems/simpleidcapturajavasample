@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Tiago/Source/Repos/PlataformaBiometrica/SimpleIDJavaSample/lib/javax.websocket-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tiago/Source/Repos/PlataformaBiometrica/SimpleIDJavaSample/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tiago/Source/Repos/PlataformaBiometrica/SimpleIDJavaSample/lib/tyrus-standalone-client-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tiago/Source/Repos/PlataformaBiometrica/SimpleIDJavaSample/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
